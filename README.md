@@ -1,0 +1,4 @@
+- 👋 Hello, I'm @leandro-h-silva
+- 👀 I am interested in learning, teaching and studying
+- 🌱 I'm currently learning FrontEnd with Python
+- 💞️ Try to collaborate on projects with PHP
